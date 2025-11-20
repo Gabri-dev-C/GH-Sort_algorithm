@@ -4,7 +4,6 @@
 
 # GH-Sort algorithm
 
-## Descrizione
 Questo è un piccolo programma che mostra il funzionamento dell'algoritmo GH-Sort,
 un algoritmo di ordinamento sviluppato da me durante il mio percorso di studi di informatica.
 L’idea di realizzare un algoritmo di ordinamento personale mi è stata suggerita dal mio professore di informatica,
